@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hyde</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2014-09-04T17:09:24+01:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <title>Ricardo Pereira</title>
+ <link href="http://blog.ricardopereira.eu/atom.xml" rel="self"/>
+ <link href="http://blog.ricardopereira.eu/"/>
+ <updated>2014-09-04T17:53:50+01:00</updated>
+ <id>http://blog.ricardopereira.eu</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Ricardo Pereira</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Introducing Hyde</title>
-   <link href="http://hyde.getpoole.com/2013/12/28/introducing-hyde/"/>
+   <link href="http://blog.ricardopereira.eu/2013/12/28/introducing-hyde/"/>
    <updated>2013-12-28T00:00:00+00:00</updated>
-   <id>http://hyde.getpoole.com/2013/12/28/introducing-hyde</id>
+   <id>http://blog.ricardopereira.eu/2013/12/28/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://hyde.getpoole.com/2012/02/07/example-content/"/>
+   <link href="http://blog.ricardopereira.eu/2012/02/07/example-content/"/>
    <updated>2012-02-07T00:00:00+00:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/07/example-content</id>
+   <id>http://blog.ricardopereira.eu/2012/02/07/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -96,14 +96,14 @@
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function(&amp;quot;a&amp;quot;, &amp;quot;b&amp;quot;, &amp;quot;return a + b&amp;quot;);
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
-// Call the function
-adder(2, 6);
-// &amp;gt; 8&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
 
@@ -204,9 +204,9 @@ adder(2, 6);
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://hyde.getpoole.com/2012/02/06/whats-jekyll/"/>
+   <link href="http://blog.ricardopereira.eu/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00+00:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/06/whats-jekyll</id>
+   <id>http://blog.ricardopereira.eu/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
