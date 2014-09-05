@@ -16,7 +16,7 @@ De forma resumida, o artigo revela a importância da escrita e da partilha de co
 
 Para além de concordar com o que Glenn Stovall escreveu, tenho tomado consciência de que para um indie developer ou para um freelancer é necessário visibilidade na internet para conseguir mostrar o seu trabalho e com isto "angariar" possíveis clientes.
 
-Pessoas como [Jared Sinclair](http://blog.jaredsinclair.com/post/93784230655), [Jeremy Olson](https://medium.com/@jerols/how-hours-became-a-top-grossing-app-c9b5abfcda7f) ou [Pieter Leves](https://levels.io/product-hunt-hacker-news-number-one/) são prova de que a visibilidade na internet faz uma grande diferença.
+Pessoas como [Jared Sinclair](http://blog.jaredsinclair.com/post/93784230655), [Jeremy Olson](https://medium.com/@jerols/how-hours-became-a-top-grossing-app-c9b5abfcda7f), [Alex Cican](http://alexcican.com/post/455k-users/) ou [Pieter Leves](https://levels.io/product-hunt-hacker-news-number-one/) são prova de que a visibilidade na internet faz uma grande diferença.
 
 
 ## Missão
@@ -36,7 +36,8 @@ O meu antigo blog estava alojado num Raspberry Pi utilizando a plataforma [Ghost
 
 #### Alernativas?
  - [Medium](https://medium.com) - "Everyone's stories and ideas."
- - [Svbtle](https://svbtle.com) - "A blogging platform designed to help you think."
+ - [Svbtle](https://svbtle.com) - "Just a blogging platform."
+ - [Ghost](https://ghost.org) - "Everyone's stories and ideas."
  - [Middleman](http://middlemanapp.com) - "Static site generator using all the shortcuts and tools in modern web development."
  - [Jekyll](http://jekyllrb.com) - "Static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes."
 

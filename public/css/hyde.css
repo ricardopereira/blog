@@ -220,3 +220,14 @@ a.sidebar-nav-item:focus {
 .sidebar-credits {
   font-size: 0.75rem;
 }
+
+.twitter_button {
+  text-align: center;
+  display: block;
+  width: 88px;
+  height: 88px;
+  margin: 24px auto 0px;
+  border-radius: 44px;
+  text-decoration: none !important;
+  color: #00ABF1 !important;
+}
