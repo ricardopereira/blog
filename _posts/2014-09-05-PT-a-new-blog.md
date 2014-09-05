@@ -37,8 +37,11 @@ O meu antigo blog estava alojado num Raspberry Pi utilizando a plataforma [Ghost
 
 #### Alernativas?
  - [Medium](https://medium.com) - "Everyone's stories and ideas."
- - [Svbtle](https://svbtle.com) - "Just a blogging platform."
- - [Ghost](https://ghost.org) - "Everyone's stories and ideas."
+ - [Svbtle](https://svbtle.com) - "A blogging platform designed to help you think."
+ - [Octopress](http://octopress.org) - "A blogging framework for hackers."
+ - [Tumblr](https://www.tumblr.com) - "Follow the blogs you've been hearing about.
+Share the things you love."
+ - [Ghost](https://ghost.org) - "Just a blogging platform."
  - [Middleman](http://middlemanapp.com) - "Static site generator using all the shortcuts and tools in modern web development."
  - [Jekyll](http://jekyllrb.com) - "Static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes."
 
