@@ -6,6 +6,13 @@ comments: true
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }} - <a href="{{ site.author.url }}">{{ site.author.name }}</a></span>
+
+  <ul class="tags">
+    {% for tags in page.tags %}
+      <li class="tag">{{ tags }}</li>
+    {% endfor %}
+  </ul>
+  </br>
   {{ content }}
 </div>
 
@@ -17,6 +24,7 @@ comments: true
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
+      {% if post.lang == 'PT' %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -25,6 +33,7 @@ comments: true
           </a>
         </h3>
       </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

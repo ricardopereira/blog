@@ -1,9 +1,10 @@
 ---
 layout: post
 lang: PT
-title: Ghost para Jekyll
+title: Um novo blog
 ---
 
+A satisfação e o processo de mudança de plataforma e de atitude. Tive em conta várias alternativas mas acabei por construir o meu novo blog em Jekyll ruby. (to be continued).
 
 ## Valor
 
