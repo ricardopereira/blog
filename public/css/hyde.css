@@ -22,6 +22,7 @@
  * Container
  * Reverse layout
  * Themes
+ * Custom
  */
 
 
@@ -203,7 +204,10 @@ a.sidebar-nav-item:focus {
   background-image:
     linear-gradient(to bottom, #757A98, #FE5113);
 }
-.theme-rp .content a,
+.theme-rp .content a {
+  color: #FE5113;
+}
+.theme-rp .post-title a,
 .theme-rp .related-posts li a:hover,
 .theme-rp .post-title {
   color: #757A98;
