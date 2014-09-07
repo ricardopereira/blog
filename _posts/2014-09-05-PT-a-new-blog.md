@@ -4,7 +4,7 @@ lang: PT
 title: Um novo blog
 ---
 
-A satisfação e o processo de mudança de plataforma e de atitude. Tive em conta várias alternativas mas acabei por construir o meu novo blog em Jekyll.
+O processo de mudança de plataforma e de atitude. Tive em conta várias alternativas mas acabei por construir o meu novo blog em Jekyll.
 
 ---
 
@@ -103,6 +103,8 @@ Notes | Possibilidade de adicionar comentários a um parágrafo, incorporar víd
 <br/>
 ### Vencedor
 
+> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+
 Daquilo que andava à procura é sem dúvida o mais indicado e para além de não necessitar de base de dados será uma mais valia para o alojamento do blog. Um simples serviço para armazenamento de arquivos serve para o blog ficar disponível publicamente.
 
 Tem cerca de 17.000 favoritos no GitHub!
@@ -110,8 +112,6 @@ Tem cerca de 17.000 favoritos no GitHub!
 <p align="center">
   <img src="/public/img/a-new-blog/jekyll-github-favs.png" alt="Total de favoritos do repositório do Jekyll no GitHub"/>
 </p>
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
 O próximo artigo será sobre a criação do blog e irei explicar todos os passos necessários.
 
