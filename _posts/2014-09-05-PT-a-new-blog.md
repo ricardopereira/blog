@@ -37,7 +37,9 @@ E por fim... a missão de ajudar o próximo! ; )
 
 O meu antigo blog foi um fracasso pelo simples facto de nunca ter escrito nenhum artigo (assim torna-se difícil, eu sei). Daí eu ter noção que será necessário fazer um compromisso.
 
-A minha ideia será lançar um artigo de 2 em 2 semanas e para mim "missão dada é missão cumprida" : )
+<p class="message">
+Lançar um artigo de 2 em 2 semanas e para mim "missão dada é missão cumprida".
+</p>
 
 <br/>
 ## Escolha da Plataforma
@@ -113,7 +115,7 @@ Tem cerca de 17.000 favoritos no GitHub!
   <img src="/public/img/a-new-blog/jekyll-github-favs.png" alt="Total de favoritos do repositório do Jekyll no GitHub"/>
 </p>
 
-O próximo artigo será sobre a criação do blog e irei explicar todos os passos necessários.
+O [próximo artigo](/2014/09/06/PT-jekyll-step-by-step/) será sobre a criação do blog e irei explicar todos os passos necessários.
 
 Bem-vindos,
 
