@@ -40,22 +40,11 @@ div.opening div.circle{
 	-moz-backface-visibility: visible;
 }
 
-figure{
-	display:block;
-	position:relative;
-	margin:0 auto;
-	left:auto;
-	top:auto;
-	margin-top:20px;
-    font-family:"PT Sans", Helvetica, Arial, sans-serif;
-}
-
 figure.kudo{
 	#position: absolute;
-    margin-left: 90%;
 	right: 50%;
-	margin-right: -70px;
-    margin-bottom: 5px;
+    width: 50px;
+    margin: 24px auto 0px;
 	top: 3px;
 	text-align: center;
 }
@@ -108,7 +97,7 @@ a.kudobject :hover { text-decoration: none ! important; }
 	transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);	
-	background-color:#FE5113;
+	background-color: #FE5113;
 }
 
 .kudo.complete a.kudobject div.opening div.circle{
