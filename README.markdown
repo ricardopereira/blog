@@ -1,0 +1,1 @@
+My personal [blog](blog.ricardopereira.eu).

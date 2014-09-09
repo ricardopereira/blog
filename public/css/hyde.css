@@ -212,6 +212,7 @@ a.sidebar-nav-item:focus {
 .theme-rp .post-title {
   color: #757A98;
 }
+.theme-rp .comment-count,
 .theme-rp .post-date {
   font-size: 0.75rem;
 }
@@ -231,7 +232,6 @@ a.sidebar-nav-item:focus {
   width: 88px;
   height: 88px;
   margin: 24px auto 0px;
-  border-radius: 44px;
   text-decoration: none !important;
   color: #00ABF1 !important;
 }
@@ -251,7 +251,7 @@ a.sidebar-nav-item:focus {
 .tag {
   background: #eee;
   border-radius: 3px 3px 3px 3px;
-  color: #999;
+  color: #757A98;
   display: inline-block;
   height: 26px;
   line-height: 26px;
