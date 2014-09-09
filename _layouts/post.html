@@ -22,7 +22,7 @@ $(function(){
 
   {% if page.comments != false %}
     <br/>
-    <span class="comment-count"><a href="#disqus_thread" data-disqus-identifier="{{ page.url }}">Comments</a></span>
+    <span class="comment-count"><a href="#disqus_thread" data-disqus-identifier="{{ site.url }}{{ page.url }}">Comments</a></span>
   {% endif %}
   </span>
 
