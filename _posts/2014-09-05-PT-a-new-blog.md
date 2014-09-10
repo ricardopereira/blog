@@ -112,7 +112,7 @@ Daquilo que andava à procura é sem dúvida o mais indicado e para além de nã
 Tem cerca de 17.000 favoritos no GitHub!
 
 <p align="center">
-  <img src="/public/img/a-new-blog/jekyll-github-favs.png" alt="Total de favoritos do repositório do Jekyll no GitHub"/>
+  <img src="/public/img/2014/a-new-blog/jekyll-github-favs.png" alt="Total de favoritos do repositório do Jekyll no GitHub"/>
 </p>
 
 O [próximo artigo](/2014/09/06/PT-jekyll-step-by-step/) será sobre a criação do blog e irei explicar todos os passos necessários.
