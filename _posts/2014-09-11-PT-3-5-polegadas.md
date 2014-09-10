@@ -22,13 +22,13 @@ Dos 2 anos onde fui utilizador do Samsung Galaxy Nexus, os seus 4,65 polegadas d
 
 Nunca conseguia alcançar o topo do ecrã com apenas uma mão sem alguma ginástica que por vezes causavam danos por quedas.
 
-Não sou o único com preocupações:
+**Não sou o único com preocupações:**
 
 <blockquote class="center twitter-tweet" lang="en"><p>“Maybe if we add a hardware back button to the bottom where it&#39;s always easier to reach…”</p>&mdash; Jared Sinclair (@jaredsinclair) <a href="https://twitter.com/jaredsinclair/status/506919989467951104">September 2, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
-Principais casos onde utilizo um smartphone com apenas umas mão:
+Principais casos onde utilizo um smartphone com apenas uma mão:
 
  - Quando estou a comer o pequeno almoço.
  - Quando estou a cozinhar.
@@ -46,7 +46,7 @@ No caso do iPhone, os principais casos onde é necessário alcançar o topo do e
  - Refrescar uma página no Safari.
  - Aceder às opções da barra de navegação.
 
-Todos estes casos não são problema para um iPhone 4/4S onde o ecrã é de 3,5 polegadas (960x640 pixels, ~326 ppi pixel density). O ecrã retina é suficiente, produz um grande detalhe em todos os aspectos, principalmente no texto tornando-se super-nítido.
+Todos estes casos não são problema para um iPhone 4/4S onde o ecrã é de 3,5 polegadas (960x640 pixels, ~326 ppi pixel density) é acessível em qualquer ponto. O ecrã retina é suficiente, produz um grande detalhe em todos os aspectos, principalmente no texto tornando-se super-nítido.
 
 <p align="center">
   <img src="/public/img/2014/3-5-polegadas/iphone4-1.jpg" alt="Gestor de comentários"/>
