@@ -63,6 +63,7 @@ Todos estes casos não são problema para um iPhone 4/4S onde o ecrã é de 3,5 
 
 A Apple sempre foi apologista de um ecrã acessível ao utilizador e aos poucos foi distorcendo tudo aquilo que afirmava. Lembram-se desta [pub](http://youtu.be/O99m7lebirE)?
 
+<br/>
 #### Double-tap Touch ID
 
 Com os novos iPhones com ecrãs de 4,7 polegadas e de 5,5 polegadas, a Apple decidiu introduzir uma solução para o acesso ao topo da vista: duplo toque no Touch ID.
