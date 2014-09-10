@@ -18,7 +18,7 @@ Durante o passar dos anos tive vários smartphones desde iPhone 3G, iPhone 3GS, 
 <br/>
 ## Polegadas >= 4,0
 
-Dos 2 anos onde fui utilizador do Samsung Galaxy Nexus, os seus 4,65 polegadas de ecrã nunca me agradaram por mais que me conformasse com a qualidade do Super AMOLED de 16 milhões de cores (1280x720 pixels, ~316 ppi pixel density).
+Dos dois anos onde fui utilizador do Samsung Galaxy Nexus, os seus 4,65 polegadas de ecrã nunca me agradaram por mais que me conformasse com a qualidade do Super AMOLED de 16 milhões de cores (1280x720 pixels, ~316 ppi pixel density).
 
 Nunca conseguia alcançar o topo do ecrã com apenas uma mão sem alguma ginástica que por vezes causavam danos por quedas.
 
