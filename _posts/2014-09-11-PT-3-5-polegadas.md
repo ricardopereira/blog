@@ -5,7 +5,7 @@ title: 3,5 Polegadas
 tags: [iPhone, Case Study]
 ---
 
-Saíram os novos iPhone 6 / iPhone 6 Plus e com eles terminaram com o discurso "**one size fits all**". Neste artigo quero-me dedicar à usabilidade tendo em conta ao tamanho do ecrã de um smartphone.
+Saíram os novos iPhone 6 / iPhone 6 Plus e com eles terminaram com o lema "**one size fits all**". Neste artigo quero-me dedicar à usabilidade tendo em conta o tamanho do ecrã de um smartphone.
 
 ---
 
@@ -18,7 +18,7 @@ Durante o passar dos anos tive vários smartphones desde iPhone 3G, iPhone 3GS, 
 <br/>
 ## Polegadas >= 4,0
 
-Dos dois anos onde fui utilizador do Samsung Galaxy Nexus, os seus 4,65 polegadas de ecrã nunca me agradaram por mais que me conformasse com a qualidade do Super AMOLED de 16 milhões de cores (1280x720 pixels, ~316 ppi pixel density).
+Dos dois anos em que fui utilizador do Samsung Galaxy Nexus, os seus 4,65 polegadas de ecrã nunca me agradaram por mais que me conformasse com a qualidade do Super AMOLED de 16 milhões de cores (1280x720 pixels, ~316 ppi pixel density).
 
 Nunca conseguia alcançar o topo do ecrã com apenas uma mão sem alguma ginástica que por vezes causavam danos por quedas.
 
@@ -46,7 +46,7 @@ No caso do iPhone, os principais casos onde é necessário alcançar o topo do e
  - Refrescar uma página no Safari.
  - Aceder às opções da barra de navegação.
 
-Todos estes casos não são problema para um iPhone 4/4S onde o ecrã é de 3,5 polegadas (960x640 pixels, ~326 ppi pixel density) é acessível em qualquer ponto. O ecrã retina é suficiente, produz um grande detalhe em todos os aspectos, principalmente no texto tornando-se super-nítido.
+Todos estes casos não são problema para um iPhone 4/4S onde o ecrã é de 3,5 polegadas (960x640 pixels, ~326 ppi pixel density) é acessível ao polegar em qualquer ponto. O ecrã retina é suficiente, produz um grande detalhe em todos os aspectos, principalmente no texto tornando-se super-nítido.
 
 <p align="center">
   <img src="/public/img/2014/3-5-polegadas/iphone4-1.jpg" alt="Gestor de comentários"/>
