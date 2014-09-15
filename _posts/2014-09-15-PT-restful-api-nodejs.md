@@ -22,7 +22,7 @@ Existem muitas diferenças entre REST e SOAP porque na realidade são coisas dis
 
  - Formato da mensagem:
    - SOAP por defeito usa XML.
-   - REST tem a possibilidade de usar XML, Atom, JSON, etc. Costuma-se implementar em JSON porque se torna mais simples a leitura dos dados por existirem bons interpretadores nativos em Objective-C, Swift, Java, JavaScript, etc.
+   - REST tem a possibilidade de usar XML, Atom, JSON, etc. Costuma-se implementar em JSON porque se torna mais simples a leitura dos dados por existirem bons interpretadores nativos em JavaScript, Java, Objective-C, Swift, etc.
  - Protocolo de comunicação:
    - SOAP pode-se usar HTTP(S), SMTP, TCP e UDP.
    - REST pode-se usar em qualquer protocolo, é independente.

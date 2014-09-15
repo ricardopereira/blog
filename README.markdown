@@ -1,1 +1,1 @@
-My personal [blog](blog.ricardopereira.eu).
+My personal [blog](http://blog.ricardopereira.eu).
