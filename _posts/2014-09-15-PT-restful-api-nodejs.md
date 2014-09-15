@@ -5,7 +5,7 @@ title: RESTful API com Node.js
 tags: [NodeJS, API, REST, Case Study]
 ---
 
-Hoje em dia são poucas as aplicações que não necessitem de um backend service para suporte de dados. Para um indie developer é fundamental ter esse conhecimento.
+Hoje em dia são poucas as aplicações que não necessitam de um backend service para suporte de dados. Para um indie developer é fundamental ter esse conhecimento.
 
 ---
 
