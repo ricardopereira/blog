@@ -101,6 +101,9 @@ A Apple conseguiu solucionar os problemas de usabilidade de ecrãs superiores a 
 
 No meu caso, não preciso de um ecrã maior e o que me deixa mais frustrado é saber que o último iPhone que irei usar com o tamanho ideal é o 4S.
 
+<blockquote class="twitter-tweet" lang="en"><p>Still prefer the 5S form factor.&#10;&#10;But 6 isn’t quite as horrible. Almost identical to the current Nexus.&#10;&#10;Oh well. Goodbye small iPhones.</p>&mdash; Jonathan Wight (@schwa) <a href="https://twitter.com/schwa/status/510172357516726272">September 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Abraço,
 
 ![Ricardo Pereira](/public/img/signature.png)
