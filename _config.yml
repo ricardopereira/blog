@@ -30,7 +30,3 @@ credits:          'Powered by <a href="http://jekyllrb.com" target="_blank">Jeky
 github:
   repo:           https://github.com/ricardopereira/blog
   account:        https://github.com/ricardopereira
-
-# Gems
-gems:
-  - jekyll-sitemap
