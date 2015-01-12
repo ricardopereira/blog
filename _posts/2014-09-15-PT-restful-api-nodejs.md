@@ -152,12 +152,12 @@ Neste momento a aplicação está à escuta na porta 9000. Para testar o acesso 
   {
     "id": 1,
     "username": "Manuel",
-    "email": "manuel@examplo.com"
+    "email": "manuel@exemplo.com"
   },
   {
     "id": 2,
     "username": "Maria",
-    "email": "maria@examplo.com"
+    "email": "maria@exemplo.com"
   }
 ]
 {% endhighlight %}
@@ -165,7 +165,7 @@ Neste momento a aplicação está à escuta na porta 9000. Para testar o acesso 
 <br/>
 ## Conclusão
 
-Neste exemplo, qualquer cliente tem acesso à API e por isso não é boa prática usá-lo em produção. O próximo artigo será sobre as várias estratégias de como proteger o acesso à API.
+Neste exemplo, qualquer cliente tem acesso à API e por isso não é boa prática usá-lo em produção. O [próximo artigo](/2014/09/16/PT-access-control-for-nodejs-restful-api/) será sobre as várias estratégias de como proteger o acesso à API.
 
 Abraço,
 

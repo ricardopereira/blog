@@ -22,7 +22,7 @@ Vou explicar todos os passos percorridos que foram necessários para a criação
 <br/>
 ## Opções & Requisitos
 
- - [1](#github-pages) - [GitHub Pages](https://pages.github.com), alojamento
+ - [GitHub Pages](https://pages.github.com), alojamento
  - [GoDaddy](https://www.godaddy.com), sub-domínio
  - [Disqus](https://disqus.com), comentários
  - [Google Analytics](http://www.google.com/analytics/), dados estatísticos
@@ -81,89 +81,7 @@ Logo, podemos aceder à página do repositório com:
 
     <username>.github.io/blog ou blog.ricardopereira.eu
 
-#### Configuração do GoDaddy
-
-...
-
-#### Instalação do Jekyll
-
-(Instalação do GEM)
-
-    gem update --system
-    
-    gem install jekyll
-    
-    cd blog
-    
-    jekyll serve
-
-
-Fiz download do Poole, para testar no local apenas é necessário
-http://jekyllbootstrap.com
-https://github.com/poole/poole
-https://github.com/poole/hyde
-https://github.com/poole/lanyon
-e existem mais
-
-<br/>
-### Disqus
-
-Comentários com DISQUS
-
-Criar uma conta: https://ricardopereira.disqus.com/admin/universalcode/
-
-<p align="center">
-  <img src="/public/img/2014/jekyll-step-by-step/disuqs.png" alt="Gestor de comentários"/>
-</p>
-
-Nas configurações: https://ricardopereira.disqus.com/admin/settings/
-
-Website Name, Website URL, Moderação - Non-verified,
-
-No tabulador Advanced:
-Trusted Domains coloquei o blog.ricardopereira.eu
-
-https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
-
-Verificar o total dos comentários:
-
-    <a href="http://erjjones.github.com{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a
-
-<br/>
-### Google Analytics
-...
-
-<br/>
-### FontAwesome
-...
-
-<br/>
-### Hover.css
-...
-
-<br/>
-### MacDown
-...
-
-<br/>
-### Tags
-...
-
-<br/>
-### Tabelas
-...
-
-<br/>
-### Breakline
-...
-
-<br/>
-### Kudos
-...
-
-<br/>
-### Centrar imagens
-...
+Em actualização...
 
 Abraço,
 
