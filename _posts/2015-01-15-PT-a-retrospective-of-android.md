@@ -34,6 +34,10 @@ Posso dizer que após os 2 meses estou bastante satisfeito com a evolução que 
 
 Experimentem, só ficam a ganhar.
 
+Eu vou ficar pelo iOS:
+<blockquote class="twitter-tweet" lang="en"><p>Interesting fact: Only 5% of Monument Valley installs on Android are paid for. 40% on iOS. There’s a sneak peak of data!</p>&mdash; ustwogames (@ustwogames) <a href="https://twitter.com/ustwogames/status/552136427904184320">January 5, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</br>
 Abraço,
 
 ![Ricardo Pereira](/public/img/signature.png)
