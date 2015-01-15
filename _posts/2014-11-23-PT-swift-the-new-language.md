@@ -32,6 +32,7 @@ Outras funcionalidades interessantes que poderão investigar pela [documentaçã
  - Generics
  - Advanced Operatores
  - Custom Operatores
+ - Extensions
  - Higher-order functions: map, filter, reduce
  - Type inference
  - ...
