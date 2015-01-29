@@ -26,7 +26,7 @@ Para facilitar o processo de configuração de uma VPN decidi por utilizar um Do
 
 [Docker](http://www.docker.com) permite executar máquinas virtuais de pequena dimensão, super eficientes e de elevada performance, tendo a vantagem de garantir soluções imutáveis e reutilizáveis.
 
-> Por exemplo, com o Docker é possível executar uma máquina virtual como se fosse um processo do sistema operativo onde o processo tem o seu próprio kernel, sistema de ficheiros, processos, etc. (Para melhor compreensão do conceito do Docker, experimentem o emulador [docker.com/tryit](http://www.docker.com/tryit/))
+> **Exemplo** Com o Docker é possível executar uma máquina virtual como se fosse um processo do sistema operativo onde o processo tem o seu próprio kernel, sistema de ficheiros, processos, etc. (Para melhor compreensão do conceito do Docker, experimentem o emulador [docker.com/tryit](http://www.docker.com/tryit/))
 
 </br>
 # DigitalOcean + Docker + OpenVPN
