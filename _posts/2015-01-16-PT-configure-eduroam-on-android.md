@@ -20,11 +20,11 @@ As definições a ter em conta são:
  - **Password:** ********
 
 <p align="center">
-  <img src="/public/img/2014/configure-eduroam-on-android/eduroam1.png" alt="Definições do Wifi Eduroam"/>
+  <img src="/public/img/2015/configure-eduroam-on-android/eduroam1.png" alt="Definições do Wifi Eduroam"/>
 </p>
 
 <p align="center">
-  <img src="/public/img/2014/configure-eduroam-on-android/eduroam2.png" alt="Definições do Wifi Eduroam"/>
+  <img src="/public/img/2015/configure-eduroam-on-android/eduroam2.png" alt="Definições do Wifi Eduroam"/>
 </p>
 
 
