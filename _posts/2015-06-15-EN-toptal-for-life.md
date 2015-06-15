@@ -5,7 +5,7 @@ title: Toptal for life
 tags: [Freelancer, Job]
 ---
 
-Today I heard about [toptal](http://www.toptal.com) through a friend and I decided to take a look... and in two minutes I've got so excited about it.
+Today I heard about [toptal](http://www.toptal.com/swift) through a friend and I decided to take a look... and in two minutes I've got so excited about it.
 
 ---
 
