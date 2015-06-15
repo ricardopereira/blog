@@ -213,7 +213,8 @@ a.sidebar-nav-item:focus {
   color: #757A98;
 }
 .theme-rp .comment-count,
-.theme-rp .post-date {
+.theme-rp .post-date,
+.theme-rp .post-lang {
   font-size: 0.75rem;
 }
 .theme-rp .sidebar-about a:hover {

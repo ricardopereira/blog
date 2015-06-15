@@ -5,7 +5,6 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% if post.lang == 'PT' %}
       <div class="post">
         <h1 class="post-title">
           <a href="{{ post.url }}">
@@ -13,11 +12,11 @@ title: Home
           </a>
         </h1>
 
+        <span class="post-lang">{{ post.lang }} version</span>
         <span class="post-date">{{ post.date | date_to_string }}</span>
 
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
       </div>
-    {% endif %}
   {% endfor %}
 </div>
 
