@@ -12,8 +12,7 @@ title: Home
           </a>
         </h1>
 
-        <span class="post-lang">{{ post.lang }} version</span>
-        <span class="post-date">{{ post.date | date_to_string }}</span>
+        <span class="post-date">{{ post.date | date_to_string }} - {{ post.lang }} version</span>
 
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
       </div>
