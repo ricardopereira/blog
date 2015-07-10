@@ -30,7 +30,7 @@ Bitrise is an iOS Continuous Integration and Delivery that allows you to manage 
 
 You can customize your workflow with different tasks based on integrations. One of them is CocoaPods and before building the source, it will install all your pods like you do on your Mac.
 
-Certainly, [CocoaPods](https://cocoapods.org) is a standard for 3rd party code but now we also have Carthage that give you the possibility to add dependencies and is intended to be the simplest way to add frameworks to your Cocoa application.
+Certainly, [CocoaPods](https://cocoapods.org) is a standard for 3rd party code but now we also have Carthage that give you the possibility to add dependencies and it's intended to be the simplest way to add frameworks to your Cocoa application.
 
 It doesn't have `Carthage build` task but we have `Bash Script Runner`!
 
@@ -79,6 +79,36 @@ carthage bootstrap
 {% endhighlight %}
 
 And you're done. I hope that Bitrise team will add this integration because it will be needed many times for me...
+
+<br/>
+##UPDATE
+
+The Bitrise team is awesome and send me some optimisations. It seems that **homebrew/bundle** is deprecated.
+
+Here is the updated script (forget about the Brewfile, delete it):
+
+{% highlight bash %}
+#!/bin/bash
+
+# exit if a command fails
+set -e
+# verbose / debug print commands
+set -v
+
+echo ""
+echo "------------------------"
+echo "Installing dependencies"
+echo "------------------------"
+# Homebrew
+brew update && brew install carthage
+
+# Carthage
+echo ""
+echo "--------"
+echo "Carthage"
+echo "--------"
+carthage bootstrap
+{% endhighlight %}
 
 <br/>
 Like Bitrise team says: _Happy building!_
