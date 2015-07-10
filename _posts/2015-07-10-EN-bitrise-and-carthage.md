@@ -9,7 +9,7 @@ tags: [iOS, CI, ]
 
 ---
 
-Bitrise is an iOS Continuous Integration and Delivery that allows you to manage each project workflow with some nice:
+Bitrise is an iOS Continuous Integration and Delivery that allows you to manage each project workflow with some nice integrations:
 
  - Deploy to Amazon S3
  - Run CocoaPods install
