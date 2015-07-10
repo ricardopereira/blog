@@ -83,7 +83,7 @@ And you're done. I hope that Bitrise team will add this integration because it w
 <br/>
 ##UPDATE
 
-The Bitrise team is awesome and send me some optimisations. It seems that **homebrew/bundle** is deprecated.
+The Bitrise team is awesome and sent me some optimisations. It seems that **homebrew/bundle** was deprecated.
 
 Here is the updated script (forget about the Brewfile, delete it):
 
