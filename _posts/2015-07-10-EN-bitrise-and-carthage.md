@@ -92,13 +92,11 @@ Here is the updated script (forget about the Brewfile, delete it):
 
 # exit if a command fails
 set -e
-# verbose / debug print commands
-set -v
 
 echo ""
-echo "------------------------"
+echo "-----------------------"
 echo "Installing dependencies"
-echo "------------------------"
+echo "-----------------------"
 # Homebrew
 brew update && brew install carthage
 
