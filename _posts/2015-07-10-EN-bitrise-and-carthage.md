@@ -5,7 +5,7 @@ title: Bitrise and Carthage
 tags: [iOS, CI, ]
 ---
 
-[Bitrise](https://www.bitrise.io) doesn't has a task for Carthage, at least for now. Here is how you can add [Carthage](https://github.com/Carthage/Carthage) support on your workflow.
+[Bitrise](https://www.bitrise.io) doesn't have a task for Carthage, at least for now. Here is how you can add [Carthage](https://github.com/Carthage/Carthage) support on your workflow.
 
 ---
 
@@ -32,7 +32,7 @@ You can customize your workflow with different tasks based on integrations. One 
 
 Certainly, [CocoaPods](https://cocoapods.org) is a standard for 3rd party code but now we also have Carthage that give you the possibility to add dependencies and is intended to be the simplest way to add frameworks to your Cocoa application.
 
-It doesn't has `Carthage build` task but we have `Bash Script Runner`!
+It doesn't have `Carthage build` task but we have `Bash Script Runner`!
 
 Perfect, so let's do this.
 <br/>
