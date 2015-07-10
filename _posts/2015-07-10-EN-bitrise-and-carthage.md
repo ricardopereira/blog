@@ -50,7 +50,7 @@ brew "carthage"
 ```
 
 <br/>
-Now, go to your workflow and add a `Bash Script Runner` before `Git Clone Repository`:
+Now, go to your workflow and add a `Bash Script Runner` after `Git Clone Repository`:
 
 <p align="center">
   <img src="/public/img/2015/bitrise-and-carthage/bash-task.png" alt="Bash task"/>
