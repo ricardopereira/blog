@@ -9,6 +9,10 @@ tags: [iOS, CI, ]
 
 ---
 
+<p align="center">
+  <img src="/public/img/2015/bitrise-and-carthage/bitrise-logo.png" alt="Bitrise logo"/>
+</p>
+
 Bitrise is an iOS Continuous Integration and Delivery that allows you to manage each project workflow with some nice integrations:
 
  - Deploy to Amazon S3
@@ -54,6 +58,7 @@ Now, go to your workflow and add a `Bash Script Runner` after `Git Clone Reposit
 
 <p align="center">
   <img src="/public/img/2015/bitrise-and-carthage/bash-task.png" alt="Bash task"/>
+</p>
 
 <br/>
 Then add this script:
