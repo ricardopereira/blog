@@ -2,7 +2,7 @@
 layout: post
 lang: EN
 title: Bitrise and Carthage
-tags: [iOS, CI, ]
+tags: [iOS, CI]
 ---
 
 [Bitrise](https://www.bitrise.io) doesn't have a task for Carthage, at least for now. Here is how you can add [Carthage](https://github.com/Carthage/Carthage) support on your workflow.
