@@ -17,7 +17,7 @@ I was looking a way to build something like this:
 
 <br/>
 
-Initially I thought using `shadowImage` property where it is possible to render a shadow using an image which basically performs as any other UIImageView. However, I wanted to draw the shadow from code so I decided to use `CAGradientLayer`.
+Initially I thought using `shadowImage` property where it is possible to render a shadow using an image which basically performs as any other `UIImageView`. However, I wanted to draw the shadow from code so I decided to use `CAGradientLayer`.
 
 <br/>
 
@@ -42,10 +42,10 @@ tableView.backgroundColor = UIColor.clearColor()
 
 Shadow from code could lead to performance issues where it is very easy to lose the 60 fps scroll on a table view if you set any shadow on a cell. You can draw a shadow based on path using the `shadowPath` property. The performance is way better than standard shadow drawing but it has a flaw - it does not resize. This can be easily achieved by subclassing the view and updating the shadow path with the `layoutSubviews` method. Last but not least, you can rasterize the shadow drawing with `shouldRasterize` property and setting the `rasterizationScale`.
 
-The result:
+**The result:**
 
 <p align="center">
-  <img src="/public/img/2015/uitableview-with-cagradientlayer/gradientlayer-mask.gif" alt="Result example"/>
+  <img src="/public/img/2015/uitableview-with-cagradientlayer/gradientlayer-mask.gif" alt="Result"/>
 </p>
 
 <br/>
