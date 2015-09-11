@@ -110,7 +110,7 @@ echo ""
 echo "--------"
 echo "Carthage"
 echo "--------"
-carthage bootstrap
+carthage bootstrap --verbose
 {% endhighlight %}
 
 <br/>
