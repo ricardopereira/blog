@@ -4,8 +4,6 @@ redcarpet:
   extensions:     ["tables"]
 highlighter:      rouge
 
-plugins:          [jekyll-paginate]
-
 # Permalinks
 permalink:        pretty
 
@@ -19,8 +17,6 @@ baseurl:          /
 author:
   name:           'Ricardo Pereira'
   url:            https://twitter.com/ricardopereiraw
-
-paginate:         5
 
 # Custom vars
 personal:         http://ricardopereira.eu
