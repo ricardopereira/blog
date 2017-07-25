@@ -4,6 +4,8 @@ redcarpet:
   extensions:     ["tables"]
 highlighter:      rouge
 
+plugins:          [classifier-reborn]
+
 # Permalinks
 permalink:        pretty
 

@@ -28,7 +28,7 @@ As definições a ter em conta são:
 </p>
 
 
-</br>
+<br/>
 
 É tudo...
 
