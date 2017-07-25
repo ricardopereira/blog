@@ -14,7 +14,7 @@ title:            Ricardo Pereira
 tagline:          'Blog'
 description:      'the developer'
 url:              http://blog.ricardopereira.eu
-baseurl:          '/'
+baseurl:          /
 
 author:
   name:           'Ricardo Pereira'
