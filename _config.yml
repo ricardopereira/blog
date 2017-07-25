@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 redcarpet:
   extensions:     ["tables"]
 highlighter:      rouge
