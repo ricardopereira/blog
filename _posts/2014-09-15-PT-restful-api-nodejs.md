@@ -15,7 +15,7 @@ O mais comum para ter um backend para uma aplicação será desenvolver um web s
  - SOAP (Simple Object Access Protocol).
 
 <div class="message">
-Não sou muito adepto de ver conceitos teóricos num blog, por isso não o vou fazer. Prefiro explicar por miúdos o que se trata e se tiveram curiosidade em explorar mais sobre o tema podem sempre utilizar o <a href="http://duckduckgo.com">DuckDuckGo</a>.
+Não sou muito adepto de ver conceitos teóricos num blog, por isso não o vou fazer. Prefiro explicar por miúdos o que se trata e se tiveram curiosidade em explorar mais sobre o tema podem sempre utilizar o <a href="https://duckduckgo.com">DuckDuckGo</a>.
 </div>
 
 Existem muitas diferenças entre REST e SOAP porque na realidade são coisas distintas. O SOAP é um protocolo enquanto REST é um modelo de arquitectura. É possível compará-las da seguinte forma:
@@ -29,22 +29,22 @@ Existem muitas diferenças entre REST e SOAP porque na realidade são coisas dis
 
 Temos muitas opções para a criação de uma RESTful API. Algumas delas são:
 
- - [Node.js](http://nodejs.org) (JavaScript)
- - [Grape](http://intridea.github.io/grape/) (Ruby)
- - [Flask](http://flask.pocoo.org) (Python)
+ - [Node.js](https://nodejs.org) (JavaScript)
+ - [Grape](https://intridea.github.io/grape/) (Ruby)
+ - [Flask](https://flask.pocoo.org) (Python)
  - [Play](https://www.playframework.com) (Scala ou Java)
- - [Martini](http://martini.codegangsta.io) (Go)
- - [Slim](http://slimframework.com) (PHP)
+ - [Martini](https://martini.codegangsta.io) (Go)
+ - [Slim](https://slimframework.com) (PHP)
 
 <br/>
 ## Node.js
 
-Neste momento estou a utilizar [Node.js](http://nodejs.org) juntamente com [Express.js](http://expressjs.com). Node é um interpretador de JavaScript do lado do servidor, enquanto que Express é uma framework para Node e dá a possibilidade de criar aplicações web de forma bastante simples.
+Neste momento estou a utilizar [Node.js](https://nodejs.org) juntamente com [Express.js](https://expressjs.com). Node é um interpretador de JavaScript do lado do servidor, enquanto que Express é uma framework para Node e dá a possibilidade de criar aplicações web de forma bastante simples.
 
 > With a myriad of HTTP utility methods and Connect middleware at your disposal, creating a robust user-friendly API is quick and easy.
 > 
 > Easily building fast, scalable network applications: 
-> [download](http://nodejs.org/download/)
+> [download](https://nodejs.org/download/)
 
 Os binários `node` e `npm` ficam disponíveis após a instalação do Node.js. O node é o compilador e o [npm](https://www.npmjs.org) é o package manager oficial do Node.js.
 
@@ -144,7 +144,7 @@ Com uma dúzia de linhas e ficamos com uma RESTful API pronta a ser usada. Para 
 
     node app.js
 
-Neste momento a aplicação está à escuta na porta 9000. Para testar o acesso à API: <a href="http://localhost:9000/api/get_users" target="_blanc">http://localhost:9000/api/get_users</a>
+Neste momento a aplicação está à escuta na porta 9000. Para testar o acesso à API: http://localhost:9000/api/get_users.
 
 **Resultado**:
 {% highlight json %}
