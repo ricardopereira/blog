@@ -26,20 +26,26 @@ Cork, Ireland
 
 **VAT:** IE9700053D (remember, all invoices for EUR sales must be stated at **0% VAT**.)
 
+<br>
+
 ## Submit the soft-copy of the invoice
 
-![](/public/img/2020/apple-contact-us-reports.png)
-
 Go to "Contact Us" in the Apple Developer account and submit the form by following these steps:
+
+![](/public/img/2020/apple-contact-us-reports.png)
 
 1. Select _Reports and Payments_.
 2. Select _Payments and Financial Reports_.
 3. Select _Contact Finance_.
 4. Select subject:  Invoicing Apple for Apps_.
 
-Fill the form, upload the PDF and submit it. That’s it!
+Fill the form, upload the PDF and submit it.
 
 ![](/public/img/2020/apple-submit-invoice.png)
+
+That’s it!
+
+<br>
 
 If you are interested in more about the Apple ecosystem, then follow me on [Twitter](https://twitter.com/ricardopereiraw). Thank you for reading.
 
