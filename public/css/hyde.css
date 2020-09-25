@@ -57,7 +57,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: #2C2C2C;
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -73,12 +73,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #FE5113;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #2C2C2C;
   margin-top: 0;
   font-size: 3.25rem;
 }
@@ -176,52 +176,95 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Red */
 .theme-rp .sidebar {
   /* Fallback (could use .jpg/.png alternatively) */
-  background-color: #757A98;
-
-  /* SVG fallback for IE 9 (could be data URI, or could use filter) */
-  background-image: url(fallback-gradient.svg); 
-
+  background-color: #DBDDE0;
   /* Safari 4, Chrome 1-9, iOS 3.2-4.3, Android 2.1-3.0 */
   background-image:
-    -webkit-gradient(linear, left top, right top, from(#757A98), to(#FE5113));
-  
+    -webkit-gradient(linear, left top, right top, from(#DBDDE0), to(#DBDDE0));
   /* Safari 5.1, iOS 5.0-6.1, Chrome 10-25, Android 4.0-4.3 */
   background-image:
-    -webkit-linear-gradient(top, #757A98, #FE5113);
-
+    -webkit-linear-gradient(top, #DBDDE0, #DBDDE0);
   /* Firefox 3.6 - 15 */
   background-image:
-    -moz-linear-gradient(top, #757A98, #FE5113);
-
+    -moz-linear-gradient(top, #DBDDE0, #DBDDE0);
   /* Opera 11.1 - 12 */
   background-image:
-    -o-linear-gradient(top, #757A98, #FE5113);
-
+    -o-linear-gradient(top, #DBDDE0, #DBDDE0);
   /* Opera 15+, Chrome 25+, IE 10+, Firefox 16+, Safari 6.1+, iOS 7+, Android 4.4+ */
   background-image:
-    linear-gradient(to bottom, #757A98, #FE5113);
+    linear-gradient(to bottom, #DBDDE0, #DBDDE0);
 }
+
 .theme-rp .content a {
   color: #FE5113;
 }
+
 .theme-rp .post-title a,
 .theme-rp .related-posts li a:hover,
 .theme-rp .post-title {
-  color: #757A98;
+  color: #2C2C2C;
 }
+
 .theme-rp .comment-count,
 .theme-rp .post-date,
 .theme-rp .post-lang {
   font-size: 0.75rem;
 }
+
 .theme-rp .sidebar-about a:hover {
   text-decoration: none;
 }
 
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #2C2C2C;
+        color: white;
+    }
+    .sidebar {
+      color: #2F5AE1;
+    }
+    .sidebar-about h1 {
+      color: #2F5AE1;
+    }
+    .theme-rp .sidebar {
+      /* Fallback (could use .jpg/.png alternatively) */
+      background-color: #1A1A1A;
+      /* Safari 4, Chrome 1-9, iOS 3.2-4.3, Android 2.1-3.0 */
+      background-image:
+        -webkit-gradient(linear, left top, right top, from(#1A1A1A), to(#1A1A1A));
+      /* Safari 5.1, iOS 5.0-6.1, Chrome 10-25, Android 4.0-4.3 */
+      background-image:
+        -webkit-linear-gradient(top, #1A1A1A, #1A1A1A);
+      /* Firefox 3.6 - 15 */
+      background-image:
+        -moz-linear-gradient(top, #1A1A1A, #1A1A1A);
+      /* Opera 11.1 - 12 */
+      background-image:
+        -o-linear-gradient(top, #1A1A1A, #1A1A1A);
+      /* Opera 15+, Chrome 25+, IE 10+, Firefox 16+, Safari 6.1+, iOS 7+, Android 4.4+ */
+      background-image:
+        linear-gradient(to bottom, #1A1A1A, #1A1A1A);
+    }
+    .theme-rp .post-title a,
+    .theme-rp .related-posts li a:hover,
+    .theme-rp .post-title {
+      color: #DBDDE0;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      color: #2F5AE1;
+    }
+    strong {
+      color: #2F5AE1;
+    }
+    pre {
+      background-color: #1A1A1A;
+    }
+}
+
 /* Custom */
+
 .sidebar-powered,
 .sidebar-credits {
   font-size: 0.75rem;
@@ -250,9 +293,9 @@ a.sidebar-nav-item:focus {
 }
 
 .tag {
-  background: #eee;
+  background: #EEE;
   border-radius: 3px 3px 3px 3px;
-  color: #757A98;
+  color: #FE5113;
   display: inline-block;
   height: 26px;
   line-height: 26px;
