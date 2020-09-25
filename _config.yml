@@ -12,8 +12,8 @@ permalink:        pretty
 # Setup
 title:            Ricardo Pereira
 tagline:          'Blog'
-description:      'the developer'
-url:              http://blog.ricardopereira.eu
+description:      'Product Developer'
+url:              https://blog.ricardopereira.eu
 baseurl:          /
 
 author:
@@ -21,9 +21,9 @@ author:
   url:            https://twitter.com/ricardopereiraw
 
 # Custom vars
-personal:         http://ricardopereira.eu
+personal:         https://ricardopereira.eu
 
-rss:              http://blog.ricardopereira.eu/atom.xml
+rss:              https://blog.ricardopereira.eu/atom.xml
 
 credits:          'Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and <a href="http://getpoole.com/" target="_blank">Poole</a>.'
 

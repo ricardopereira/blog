@@ -6,6 +6,6 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Posts -->
   {% for post in site.posts %}
-  <url><loc>http://blog.ricardopereira.eu{{ post.url }}</loc></url>
+  <url><loc>https://blog.ricardopereira.eu{{ post.url }}</loc></url>
   {% endfor %}
 </urlset>
