@@ -73,7 +73,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #FE5113;
+  color: #F48024;
 }
 
 /* About section */
@@ -197,7 +197,7 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-rp .content a {
-  color: #FE5113;
+  color: #F48024;
 }
 
 .theme-rp .post-title a,
@@ -249,7 +249,7 @@ a.sidebar-nav-item:focus {
 .tag {
   background: #EEE;
   border-radius: 3px 3px 3px 3px;
-  color: #FE5113;
+  color: #F48024;
   display: inline-block;
   height: 26px;
   line-height: 26px;
@@ -268,10 +268,10 @@ a.sidebar-nav-item:focus {
         color: white;
     }
     .sidebar {
-      color: #2F5AE1;
+      color: #3CA4FF;
     }
     .sidebar-about h1 {
-      color: #2F5AE1;
+      color: #3CA4FF;
     }
     .theme-rp .sidebar {
       /* Fallback (could use .jpg/.png alternatively) */
@@ -298,10 +298,10 @@ a.sidebar-nav-item:focus {
       color: #DBDDE0;
     }
     h1, h2, h3, h4, h5, h6 {
-      color: #2F5AE1;
+      color: #3CA4FF;
     }
     strong {
-      color: #2F5AE1;
+      color: #3CA4FF;
     }
     pre {
       background-color: #1A1A1A;
