@@ -1,13 +1,11 @@
 <p class="message">
-I'm an eclectic person in the tech world which makes me quite addicted to experiencing any recent content. I'm experienced in Delphi, C/C++, Objective-C and Java. Right now I'm active on iOS Development, <a href="http://500px.com/ricardopereiraw" target="_blanc">Photography</a>, <a href="https://www.freeletics.com/en" target="_blanc">Freeletics</a>, eating clean (cooking), hand made vine and restoring old stuff.
+Hello!
 </p>
 
-* [Projects](http://ricardopereira.eu)
+* [Projects](https://ricardopereira.eu)
 * [GitHub](https://github.com/ricardopereira)
 * [AppStore](https://itunes.apple.com/us/artist/ricardo-pereira/id805143344)
-* [Twitter](https://twitter.com/ricardopereiraw)
-* [Facebook](https://www.facebook.com/ricardopereira.eu)
-* [Contact](mailto:m@ricardopereira.eu)
+* [Twitter](https://twitter.com/ricprw)
 
 Some fun facts about the setup of this blog include:
 
