@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: EN
-title: Self-hosting Ente Photos: My journey to Google Photos alternative
+title: "Self-hosting Ente Photos: my journey to Google Photos alternative"
 tags: [Photos, Self-host, DIY, FOSS]
 ---
 
