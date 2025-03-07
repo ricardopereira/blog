@@ -73,7 +73,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #F48024;
+  color: #810cff;
 }
 
 /* About section */
@@ -197,13 +197,13 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-rp .content a {
-  color: #F48024;
+  color: #810cff;
 }
 
 .theme-rp .post-title a,
 .theme-rp .related-posts li a:hover,
 .theme-rp .post-title {
-  color: #2C2C2C;
+  color: #810cff;
 }
 
 .theme-rp .comment-count,
@@ -231,7 +231,7 @@ a.sidebar-nav-item:focus {
   height: 88px;
   margin: 24px auto 0px;
   text-decoration: none !important;
-  color: #00ABF1 !important;
+  color: #810cff !important;
 }
 
 .tags {
@@ -249,7 +249,7 @@ a.sidebar-nav-item:focus {
 .tag {
   background: #EEE;
   border-radius: 3px 3px 3px 3px;
-  color: #F48024;
+  color: #810cff;
   display: inline-block;
   height: 26px;
   line-height: 26px;
@@ -267,10 +267,10 @@ a.sidebar-nav-item:focus {
         color: white;
     }
     body:not(.light-mode) .sidebar {
-      color: #3CA4FF;
+      color: #810cff;
     }
     body:not(.light-mode) .sidebar-about h1 {
-      color: #3CA4FF;
+      color: #810cff;
     }
     body:not(.light-mode) .theme-rp .sidebar {
       background-color: #1A1A1A;
@@ -296,10 +296,10 @@ a.sidebar-nav-item:focus {
     body:not(.light-mode) h4, 
     body:not(.light-mode) h5, 
     body:not(.light-mode) h6 {
-      color: #3CA4FF;
+      color: #810cff;
     }
     body:not(.light-mode) strong {
-      color: #3CA4FF;
+      color: #810cff;
     }
     body:not(.light-mode) pre {
       background-color: #1A1A1A;
@@ -313,14 +313,6 @@ a.sidebar-nav-item:focus {
 body.dark-mode {
     background-color: #2C2C2C;
     color: white;
-}
-
-body.dark-mode .sidebar {
-    color: #3CA4FF;
-}
-
-body.dark-mode .sidebar-about h1 {
-    color: #3CA4FF;
 }
 
 body.dark-mode .theme-rp .sidebar {
@@ -349,11 +341,11 @@ body.dark-mode h3,
 body.dark-mode h4, 
 body.dark-mode h5, 
 body.dark-mode h6 {
-    color: #3CA4FF;
+    color: #810cff;
 }
 
 body.dark-mode strong {
-    color: #3CA4FF;
+    color: #810cff;
 }
 
 body.dark-mode pre {
@@ -364,30 +356,70 @@ body.dark-mode .tag {
     background-color: #1A1A1A;
 }
 
-/* Dark mode toggle button */
+/* Dark mode toggle switch - iOS style */
+.dark-mode-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dark-mode-text {
+  color: #810cff;
+  font-size: 0.9rem;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 51px;
+  height: 31px;
+  margin: 0.5rem 0;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #E9E9EA;
+  transition: .4s;
+  border-radius: 31px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 27px;
+  width: 27px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: .3s;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+input:checked + .slider {
+  background-color: #810cff;
+}
+
+input:checked + .slider:before {
+  transform: translateX(20px);
+}
+
+body.dark-mode .dark-mode-text {
+  color: #810cff;
+}
+
+/* Remove old button styles */
 #dark-mode-toggle {
-    cursor: pointer;
-    padding: 0.5rem 1rem;
-    margin: 0.5rem 0;
-    border: 1px solid #F48024;
-    border-radius: 4px;
-    background: transparent;
-    color: #F48024;
-    font-size: 0.9rem;
-    transition: all 0.3s ease;
-}
-
-#dark-mode-toggle:hover {
-    background: #F48024;
-    color: white;
-}
-
-body.dark-mode #dark-mode-toggle {
-    border-color: #3CA4FF;
-    color: #3CA4FF;
-}
-
-body.dark-mode #dark-mode-toggle:hover {
-    background: #3CA4FF;
-    color: white;
+  display: none;
 }
