@@ -350,7 +350,15 @@ body.dark-mode .tag {
 .dark-mode-container {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
+  width: 100%;
+}
+
+@media (min-width: 48em) {
+  .dark-mode-container {
+    justify-content: flex-start;
+  }
 }
 
 .dark-mode-text {
