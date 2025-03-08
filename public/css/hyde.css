@@ -224,16 +224,6 @@ a.sidebar-nav-item:focus {
   font-size: 0.75rem;
 }
 
-.twitter-button {
-  text-align: center;
-  display: block;
-  width: 88px;
-  height: 88px;
-  margin: 24px auto 0px;
-  text-decoration: none !important;
-  color: #810cff !important;
-}
-
 .tags {
   list-style: none;
   margin: 0;
