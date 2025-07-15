@@ -118,5 +118,6 @@ Like Bitrise team says: _Happy building!_
 
 Cheers,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

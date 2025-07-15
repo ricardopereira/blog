@@ -169,5 +169,6 @@ Neste exemplo, qualquer cliente tem acesso à API e por isso não é boa prátic
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

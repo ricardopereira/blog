@@ -47,9 +47,7 @@ That’s it!
 
 <br>
 
-If you are interested in more about the Apple ecosystem, then follow me on [Twitter](https://twitter.com/ricardopereiraw). Thank you for reading.
+If you are interested in more about the Apple ecosystem, then follow me on [Mastodon](https://mastodon.social/@ricardopereira).
+Thank you for reading,
 
-Best,
-
-![Ricardo Pereira](/public/img/signature.png)
-
+Ricardo Pereira

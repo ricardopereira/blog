@@ -85,4 +85,5 @@ Em actualização...
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
+
+Ricardo Pereira

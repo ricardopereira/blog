@@ -119,4 +119,5 @@ O [próximo artigo](/2014/09/06/PT-jekyll-step-by-step/) será sobre a criação
 
 Bem-vindos,
 
-![Ricardo Pereira](/public/img/signature.png)
+
+Ricardo Pereira

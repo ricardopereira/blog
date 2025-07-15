@@ -40,5 +40,6 @@ Eu vou ficar pelo iOS:
 <br/>
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

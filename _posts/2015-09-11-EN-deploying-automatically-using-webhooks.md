@@ -97,7 +97,7 @@ Please consider [securing your webhooks](https://developer.github.com/webhooks/s
 
 <br/>
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

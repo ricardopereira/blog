@@ -67,9 +67,9 @@ It’s always important to keep some anonymous data about your app where you can
 
 Extra: [Subscription Offers Best Practices - WWDC 2019 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/305)
 
-If you are interested in more about the Apple ecosystem, then follow me on [Twitter](https://twitter.com/ricardopereiraw).
+If you are interested in more about the Apple ecosystem, then follow me on [Mastodon](https://mastodon.social/@ricardopereira).
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

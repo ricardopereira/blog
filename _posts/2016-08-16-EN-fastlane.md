@@ -16,7 +16,7 @@ Fastlane is an amazing tool. I'm a huge fan. I'm using it in almost every projec
 
 <br/>
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

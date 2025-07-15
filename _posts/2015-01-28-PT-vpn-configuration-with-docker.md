@@ -156,5 +156,6 @@ Para qualquer dúvida, podem deixar comentário ou contactar-me diretamente.
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

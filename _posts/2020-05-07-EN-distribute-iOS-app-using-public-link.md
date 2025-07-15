@@ -102,9 +102,8 @@ That’s it. Have in mind that you can create a basic HTML page with a link like
 
 <br>
 
-If you are interested in more about the Apple ecosystem, then follow me on [Twitter](https://twitter.com/ricardopereiraw). Thank you for reading.
+If you are interested in more about the Apple ecosystem, then follow me on [Mastodon](https://mastodon.social/@ricardopereira).
 
-Best,
+Thank you for reading,
 
-![Ricardo Pereira](/public/img/signature.png)
-
+Ricardo Pereira

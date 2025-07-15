@@ -13,7 +13,7 @@ I wrote about `UIActivityItemProvider` and the possibility to load a remote cont
 
 <br/>
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

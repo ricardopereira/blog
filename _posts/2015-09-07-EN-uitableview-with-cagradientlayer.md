@@ -53,5 +53,6 @@ I hope you like it.
 
 Cheers,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

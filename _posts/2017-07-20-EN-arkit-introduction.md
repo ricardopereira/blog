@@ -17,7 +17,7 @@ The app does plane detection and can add nodes to the plane.  [Check it out](htt
 
 <br/>
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

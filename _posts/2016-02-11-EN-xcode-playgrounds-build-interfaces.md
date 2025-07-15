@@ -17,7 +17,7 @@ I wrote about it [here](https://www.whitesmith.co/blog/ios-interfaces-with-xcode
 
 <br/>
 
-Best,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

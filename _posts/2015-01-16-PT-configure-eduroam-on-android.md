@@ -34,5 +34,6 @@ As definições a ter em conta são:
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

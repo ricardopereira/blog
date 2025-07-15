@@ -45,5 +45,6 @@ Uma linguagem dinâmica é um pau de dois bicos. Pode ser bastante flexível mas
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira

@@ -27,7 +27,7 @@ Anyway, the wait is over and I believe it was worth it! Version 5.0 of Money for
 
 <br>
 
-If you are interested in more about the mobile development and/or personal finance, then follow me on [Twitter](https://twitter.com/ricardopereiraw).
+If you are interested in more about the mobile development and/or personal finance, then follow me on [Mastodon](https://mastodon.social/@ricardopereira).
 
 Thanks for reading,
 

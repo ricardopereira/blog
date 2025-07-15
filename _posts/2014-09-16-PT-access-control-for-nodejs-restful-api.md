@@ -94,5 +94,6 @@ A estratégia que irei descrever futuramente, será com recurso ao `Passport.js`
 
 Abraço,
 
-![Ricardo Pereira](/public/img/signature.png)
 
+
+Ricardo Pereira
