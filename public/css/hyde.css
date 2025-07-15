@@ -35,6 +35,29 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
+/* Smooth transitions for theme switching */
+body,
+.sidebar,
+.content,
+.post,
+.post-title,
+.post-title a,
+.page-title,
+.sidebar-about h1,
+a,
+code,
+pre {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Prevent transitions on initial load */
+.dark-mode-preload,
+.dark-mode-preload *,
+.dark-mode-preload *:before,
+.dark-mode-preload *:after {
+  transition: none !important;
+}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -257,28 +280,53 @@ a.sidebar-nav-item:focus {
         color: white;
     }
     body:not(.light-mode) .sidebar {
-      color: #810cff;
+      color: #E0E0E0;
+    }
+    body:not(.light-mode) .sidebar a {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .sidebar a:hover,
+    body:not(.light-mode) .sidebar a:focus {
+      color: #D8BFD8;
     }
     body:not(.light-mode) .sidebar-about h1 {
-      color: #810cff;
+      color: #FFFFFF;
     }
-    body:not(.light-mode) .theme-rp .sidebar {
-      background-color: #1A1A1A;
-      background-image:
-        -webkit-gradient(linear, left top, right top, from(#1A1A1A), to(#1A1A1A));
-      background-image:
-        -webkit-linear-gradient(top, #1A1A1A, #1A1A1A);
-      background-image:
-        -moz-linear-gradient(top, #1A1A1A, #1A1A1A);
-      background-image:
-        -o-linear-gradient(top, #1A1A1A, #1A1A1A);
-      background-image:
-        linear-gradient(to bottom, #1A1A1A, #1A1A1A);
+    body:not(.light-mode) .sidebar-about h1 a {
+      color: #FFFFFF;
+    }
+    body:not(.light-mode) .sidebar-about h1 a:hover {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .sidebar-nav-item {
+      color: #E0E0E0;
+    }
+    body:not(.light-mode) a.sidebar-nav-item:hover,
+    body:not(.light-mode) a.sidebar-nav-item:focus {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .sidebar-nav-item.active {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .sidebar-powered,
+    body:not(.light-mode) .sidebar-credits {
+      color: #A0A0A0;
+    }
+    body:not(.light-mode) .sidebar-powered a,
+    body:not(.light-mode) .sidebar-credits a {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .sidebar {
+      background-color: #1A1A1A !important;
+      background-image: none !important;
     }
     body:not(.light-mode) .theme-rp .post-title a,
     body:not(.light-mode) .theme-rp .related-posts li a:hover,
     body:not(.light-mode) .theme-rp .post-title {
-      color: #DBDDE0;
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .page-title {
+      color: #B19CD9;
     }
     body:not(.light-mode) h1, 
     body:not(.light-mode) h2, 
@@ -286,16 +334,29 @@ a.sidebar-nav-item:focus {
     body:not(.light-mode) h4, 
     body:not(.light-mode) h5, 
     body:not(.light-mode) h6 {
-      color: #810cff;
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .post h1.post-title {
+      color: #B19CD9 !important;
     }
     body:not(.light-mode) strong {
-      color: #810cff;
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .content a,
+    body:not(.light-mode) .post a {
+      color: #B19CD9;
+    }
+    body:not(.light-mode) .content a:hover,
+    body:not(.light-mode) .post a:hover {
+      color: #D8BFD8;
     }
     body:not(.light-mode) pre {
       background-color: #1A1A1A;
     }
     body:not(.light-mode) .tag {
-      background-color: #1A1A1A;
+      background-color: #3A3A3A;
+      color: #B19CD9;
+      border: 1px solid #4A4A4A;
     }
 }
 
@@ -305,24 +366,69 @@ body.dark-mode {
     color: white;
 }
 
-body.dark-mode .theme-rp .sidebar {
-    background-color: #1A1A1A;
-    background-image:
-        -webkit-gradient(linear, left top, right top, from(#1A1A1A), to(#1A1A1A));
-    background-image:
-        -webkit-linear-gradient(top, #1A1A1A, #1A1A1A);
-    background-image:
-        -moz-linear-gradient(top, #1A1A1A, #1A1A1A);
-    background-image:
-        -o-linear-gradient(top, #1A1A1A, #1A1A1A);
-    background-image:
-        linear-gradient(to bottom, #1A1A1A, #1A1A1A);
+body.dark-mode .sidebar {
+    background-color: #1A1A1A !important;
+    background-image: none !important;
+}
+
+/* Sidebar text and links in dark mode */
+body.dark-mode .sidebar {
+    color: #E0E0E0;
+}
+
+body.dark-mode .sidebar a {
+    color: #B19CD9; /* Lighter purple for better contrast */
+}
+
+body.dark-mode .sidebar a:hover,
+body.dark-mode .sidebar a:focus {
+    color: #D8BFD8; /* Even lighter on hover */
+}
+
+body.dark-mode .sidebar-about h1 {
+    color: #FFFFFF; /* White for main title */
+}
+
+body.dark-mode .sidebar-about h1 a {
+    color: #FFFFFF;
+}
+
+body.dark-mode .sidebar-about h1 a:hover {
+    color: #B19CD9;
+}
+
+body.dark-mode .sidebar-nav-item {
+    color: #E0E0E0;
+}
+
+body.dark-mode a.sidebar-nav-item:hover,
+body.dark-mode a.sidebar-nav-item:focus {
+    color: #B19CD9;
+}
+
+body.dark-mode .sidebar-nav-item.active {
+    color: #B19CD9;
+}
+
+body.dark-mode .sidebar-powered,
+body.dark-mode .sidebar-credits {
+    color: #A0A0A0; /* Muted text for footer */
+}
+
+body.dark-mode .sidebar-powered a,
+body.dark-mode .sidebar-credits a {
+    color: #B19CD9;
 }
 
 body.dark-mode .theme-rp .post-title a,
 body.dark-mode .theme-rp .related-posts li a:hover,
 body.dark-mode .theme-rp .post-title {
-    color: #DBDDE0;
+    color: #B19CD9;
+}
+
+/* Page title on article pages */
+body.dark-mode .page-title {
+    color: #B19CD9;
 }
 
 body.dark-mode h1, 
@@ -331,11 +437,32 @@ body.dark-mode h3,
 body.dark-mode h4, 
 body.dark-mode h5, 
 body.dark-mode h6 {
-    color: #810cff;
+    color: #B19CD9;
+}
+
+/* Specifically target post titles on article pages */
+body.dark-mode .post h1.post-title {
+    color: #B19CD9 !important;
 }
 
 body.dark-mode strong {
-    color: #810cff;
+    color: #B19CD9;
+}
+
+/* Links in post content */
+body.dark-mode .content a,
+body.dark-mode .post a {
+    color: #B19CD9;
+}
+
+body.dark-mode .content a:hover,
+body.dark-mode .post a:hover {
+    color: #D8BFD8;
+}
+
+/* Post metadata links */
+body.dark-mode .post-date a {
+    color: #B19CD9;
 }
 
 body.dark-mode pre {
@@ -343,7 +470,9 @@ body.dark-mode pre {
 }
 
 body.dark-mode .tag {
-    background-color: #1A1A1A;
+    background-color: #3A3A3A;
+    color: #B19CD9;
+    border: 1px solid #4A4A4A;
 }
 
 /* Dark mode toggle switch - iOS style */
@@ -364,6 +493,11 @@ body.dark-mode .tag {
 .dark-mode-text {
   color: #810cff;
   font-size: 0.9rem;
+}
+
+/* In light mode, keep the original purple */
+body:not(.dark-mode) .dark-mode-text {
+  color: #810cff;
 }
 
 .switch {
@@ -414,10 +548,24 @@ input:checked + .slider:before {
 }
 
 body.dark-mode .dark-mode-text {
-  color: #810cff;
+  color: #B19CD9;
 }
 
-/* Remove old button styles */
-#dark-mode-toggle {
-  display: none;
+/* Dark mode toggle improvements */
+body.dark-mode .slider {
+  background-color: #4A4A4A;
+  border: 1px solid #5A5A5A;
+}
+
+body.dark-mode input:checked + .slider {
+  background-color: #810cff;
+  border: 1px solid #810cff;
+}
+
+/* Keep checkbox hidden but functional */
+.switch input#dark-mode-toggle {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
 }
