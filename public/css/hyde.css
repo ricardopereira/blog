@@ -358,6 +358,22 @@ a.sidebar-nav-item:focus {
       color: #B19CD9;
       border: 1px solid #4A4A4A;
     }
+    /* Table styles for dark mode */
+    body:not(.light-mode) table {
+      border: 1px solid #4A4A4A;
+    }
+    body:not(.light-mode) td,
+    body:not(.light-mode) th {
+      border: 1px solid #4A4A4A;
+    }
+    body:not(.light-mode) tbody tr:nth-child(odd) td,
+    body:not(.light-mode) tbody tr:nth-child(odd) th {
+      background-color: #383838;
+    }
+    body:not(.light-mode) tbody tr:nth-child(even) td,
+    body:not(.light-mode) tbody tr:nth-child(even) th {
+      background-color: #2C2C2C;
+    }
 }
 
 /* Manual dark mode */
@@ -473,6 +489,26 @@ body.dark-mode .tag {
     background-color: #3A3A3A;
     color: #B19CD9;
     border: 1px solid #4A4A4A;
+}
+
+/* Table styles for manual dark mode */
+body.dark-mode table {
+    border: 1px solid #4A4A4A;
+}
+
+body.dark-mode td,
+body.dark-mode th {
+    border: 1px solid #4A4A4A;
+}
+
+body.dark-mode tbody tr:nth-child(odd) td,
+body.dark-mode tbody tr:nth-child(odd) th {
+    background-color: #383838;
+}
+
+body.dark-mode tbody tr:nth-child(even) td,
+body.dark-mode tbody tr:nth-child(even) th {
+    background-color: #2C2C2C;
 }
 
 /* Dark mode toggle switch - iOS style */
